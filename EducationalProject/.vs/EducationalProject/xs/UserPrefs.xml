@@ -1,23 +1,24 @@
-﻿<Properties StartupConfiguration="{6B20DD8F-B180-4BFD-8A2E-4B53E7C47EBD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EducationalProject/Program.cs">
-    <Files>
-      <File FileName="EducationalProject/Program.cs" Line="1" Column="1" />
-    </Files>
+﻿<Properties StartupConfiguration="{5F791DDA-85E5-4CA6-9353-0101EDBEE424}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
-            <Node name="EducationalProject" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="AverageValue" expanded="True">
+              <Node name="Value.cs" selected="True" />
             </Node>
+            <Node name="EducationalProject" expanded="True" />
+            <Node name="Lesson2" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.EducationalProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EducationalProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AverageValue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

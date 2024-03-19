@@ -1,0 +1,13 @@
+/Users/admin/EducationalProject/EducationalProject/AverageValue/bin/Debug/netcoreapp3.1/AverageValue.deps.json
+/Users/admin/EducationalProject/EducationalProject/AverageValue/bin/Debug/netcoreapp3.1/AverageValue.runtimeconfig.json
+/Users/admin/EducationalProject/EducationalProject/AverageValue/bin/Debug/netcoreapp3.1/AverageValue.runtimeconfig.dev.json
+/Users/admin/EducationalProject/EducationalProject/AverageValue/bin/Debug/netcoreapp3.1/AverageValue.dll
+/Users/admin/EducationalProject/EducationalProject/AverageValue/bin/Debug/netcoreapp3.1/AverageValue.pdb
+/Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.csproj.AssemblyReference.cache
+/Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.AssemblyInfoInputs.cache
+/Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.AssemblyInfo.cs
+/Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.csproj.CoreCompileInputs.cache
+/Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.dll
+/Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.pdb
+/Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.genruntimeconfig.cache
