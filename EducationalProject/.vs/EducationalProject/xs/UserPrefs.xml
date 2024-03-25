@@ -1,13 +1,18 @@
-﻿<Properties StartupConfiguration="{5F791DDA-85E5-4CA6-9353-0101EDBEE424}|Default">
+﻿<Properties StartupConfiguration="{789FF0F6-16DD-4B1A-900D-6DAC83FE9618}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson3part2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson3part4/TwoNumbers.cs">
+    <Files>
+      <File FileName="Lesson3part2/EvenNumber.cs" Line="11" Column="58" />
+      <File FileName="EducationalProject/Exercise1.cs" />
+      <File FileName="Lesson3part4/TwoNumbers.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
-            <Node name="AverageValue" expanded="True">
-              <Node name="Value.cs" selected="True" />
-            </Node>
             <Node name="EducationalProject" expanded="True" />
             <Node name="Lesson2" expanded="True" />
           </Node>
@@ -23,4 +28,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lesson3part3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
