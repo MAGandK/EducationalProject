@@ -4,14 +4,19 @@
   <MonoDevelop.Ide.ItemProperties.Lesson2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson4/Homework/Task2.cs">
+    <Files>
+      <File FileName="Lesson4/Homework/Task2.cs" Line="17" Column="2" />
+      <File FileName="Lesson4/Homework/Task1.cs" Line="1" Column="1" />
+      <File FileName="Lesson4/Homework/Task3.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
             <Node name="Lesson4" expanded="True">
               <Node name="Homework" expanded="True">
-                <Node name="Task3.cs" selected="True" />
+                <Node name="Task2.cs" selected="True" />
               </Node>
             </Node>
           </Node>
