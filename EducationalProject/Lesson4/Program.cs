@@ -10,10 +10,17 @@ namespace Lesson4
             Practice.Array();
             Console.WriteLine("------------");
 
+            Console.WriteLine("Task1");
             CreateMas.Create();
             Console.WriteLine("------------");
 
+            Console.WriteLine("Task2");
             LoopWithCounter.GetNumbers();
+            Console.WriteLine("\n------------");
+
+            Console.WriteLine("Task3");
+            СolumnOfNumbers.Сolumn();
+            Console.WriteLine("------------");
         }
     }
 }
