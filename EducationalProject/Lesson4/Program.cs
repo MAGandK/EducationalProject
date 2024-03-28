@@ -25,6 +25,9 @@ namespace Lesson4
             Console.WriteLine("Task4");
             Move.GetMove();
             Console.WriteLine("------------");
+
+            Console.WriteLine("Task5");
+            Numbers.GetNumbers();
         }
     }
 }
