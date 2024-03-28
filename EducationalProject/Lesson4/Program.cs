@@ -21,6 +21,10 @@ namespace Lesson4
             Console.WriteLine("Task3");
             СolumnOfNumbers.Сolumn();
             Console.WriteLine("------------");
+
+            Console.WriteLine("Task4");
+            Move.GetMove();
+            Console.WriteLine("------------");
         }
     }
 }
