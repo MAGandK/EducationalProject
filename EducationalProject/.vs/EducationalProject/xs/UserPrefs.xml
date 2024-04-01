@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{5DE6677E-31F1-46D6-91FA-57E30BB56F1C}|Default">
+﻿<Properties StartupConfiguration="{F17AC2C4-FF63-4671-B05D-703C7042FE49}|Default">
   <MonoDevelop.Ide.ItemProperties.Lesson3part2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson4/Homework/Task5.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson5/Program.cs">
     <Files>
-      <File FileName="Lesson4/Program.cs" Line="9" Column="10" />
-      <File FileName="Lesson4/Homework/Task5.cs" Line="1" Column="1" />
+      <File FileName="Lesson5/Program.cs" Line="10" Column="85" />
+      <File FileName="Lesson5/Homework/Task1.cs" Line="75" Column="58" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,9 +17,11 @@
               <Node name="Dependencies" expanded="True" />
             </Node>
             <Node name="Lesson4" expanded="True">
-              <Node name="Homework" expanded="True">
-                <Node name="Task5.cs" selected="True" />
-              </Node>
+              <Node name="Homework" expanded="True" />
+            </Node>
+            <Node name="Lesson5" expanded="True">
+              <Node name="Homework" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -28,6 +30,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.EducationalProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lesson5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.AverageValue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
