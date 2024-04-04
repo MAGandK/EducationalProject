@@ -5,11 +5,7 @@
   <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Lesson6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson6/Homework/Task1.cs">
-    <Files>
-      <File FileName="Lesson5/Practice.cs" Line="1" Column="1" />
-      <File FileName="Lesson6/Homework/Task1.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -20,7 +16,9 @@
             <Node name="Lesson4" expanded="True">
               <Node name="Homework" expanded="True" />
             </Node>
-            <Node name="Lesson5" expanded="True" />
+            <Node name="Lesson5" expanded="True">
+              <Node name="Homework" expanded="True" />
+            </Node>
             <Node name="Lesson6" expanded="True">
               <Node name="Homework" expanded="True">
                 <Node name="Task1.cs" selected="True" />

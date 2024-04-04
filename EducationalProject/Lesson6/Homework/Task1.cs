@@ -13,12 +13,13 @@ namespace Lesson6.Homework
                 numberArray[i] = Convert.ToInt32(Console.ReadLine());
             }
 
+            Array.Sort(numberArray);
+            Array.Reverse(numberArray);
+
             Console.WriteLine("Array output");
 
             for (int i = 0; i < numberArray.Length; i++)
             {
-                Array.Sort(numberArray);
-                Array.Reverse(numberArray);
                 Console.WriteLine(numberArray[i]);  
             }  
         }

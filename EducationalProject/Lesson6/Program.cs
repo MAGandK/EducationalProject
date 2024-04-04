@@ -8,6 +8,9 @@ namespace Lesson6.Homework
             //SortedArray.SortedArrayNum();
 
             SortedArray.SecondWaySortedArray();
+            Console.WriteLine(new string('*',15));
+            
+            UsingStringBuilder.CreatingStrings();
         }
     }
 }
