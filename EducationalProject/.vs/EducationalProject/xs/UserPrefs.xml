@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{F17AC2C4-FF63-4671-B05D-703C7042FE49}|Default">
+﻿<Properties StartupConfiguration="{224A8ECD-C6B1-482F-9FD9-B7FED986E273}|Default">
   <MonoDevelop.Ide.ItemProperties.Lesson3part2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson5/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Lesson6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson6/Homework/Task1.cs">
     <Files>
-      <File FileName="Lesson5/Program.cs" Line="10" Column="85" />
-      <File FileName="Lesson5/Homework/Task1.cs" Line="75" Column="58" />
+      <File FileName="Lesson5/Practice.cs" Line="1" Column="1" />
+      <File FileName="Lesson6/Homework/Task1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,9 +20,11 @@
             <Node name="Lesson4" expanded="True">
               <Node name="Homework" expanded="True" />
             </Node>
-            <Node name="Lesson5" expanded="True">
-              <Node name="Homework" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+            <Node name="Lesson5" expanded="True" />
+            <Node name="Lesson6" expanded="True">
+              <Node name="Homework" expanded="True">
+                <Node name="Task1.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -29,7 +32,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.EducationalProject PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Lesson6/Homework/Task1.cs" line="12" column="49" endLine="12" endColumn="56" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.ItemProperties.Lesson5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.AverageValue PreferredExecutionTarget="MonoDevelop.Default" />
