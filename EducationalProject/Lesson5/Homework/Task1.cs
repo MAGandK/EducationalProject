@@ -6,8 +6,8 @@ namespace Lesson5.Homework
         public const string Company = "TimDevelipers";
         public const string Item = "Junior Developer";
 
-        private string _name;
-        private string _surname;
+        public string name;
+        public string surname;
         private int _age;
         private string _education;
         private double _professionalSkills;
@@ -60,22 +60,22 @@ namespace Lesson5.Homework
 
         public CurriculumVitae(string name, string surname) 
         {
-            _name = name;
-            _surname = surname;
+            this.name = name;
+            this.surname = surname;
         }
 
         public CurriculumVitae(string name, string surname, int age) 
         {
-            _name = name;
-            _surname = surname;
+            this.name = name;
+            this.surname = surname;
             _age = age;
         }
 
         public CurriculumVitae(string name, string surname, int age,
             string education, double professionalSkills) 
         {
-            _name = name;
-            _surname = surname;
+            this.name = name;
+            this.surname = surname;
             _age = age;
             _education = education;
             _professionalSkills = professionalSkills;
@@ -86,17 +86,17 @@ namespace Lesson5.Homework
         {
             Console.WriteLine("Enter your name: ");
             string name = Console.ReadLine();
-            _name = name;
+            this.name = name;
 
             Console.Write("Enter your surname: ");
             string surname = Console.ReadLine();
-            _surname = surname;
+            this.surname = surname;
         }
 
         public void ShowInformation()
         {
-            Console.WriteLine($"Name: {_name}");
-            Console.WriteLine($"Surname: {_surname}");
+            Console.WriteLine($"Name: {name}");
+            Console.WriteLine($"Surname: {surname}");
             Console.WriteLine($"Age: {_age}");
             Console.WriteLine($"Education: {_education}");
             Console.WriteLine($"Professional Skills: {_professionalSkills}");
@@ -116,7 +116,7 @@ namespace Lesson5.Homework
         {
             double relevance = 0;
 
-            if (_name !=null || _surname != null)
+            if (name !=null || surname != null)
             {
                 relevance += 0.2;
             }

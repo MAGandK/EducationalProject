@@ -17,12 +17,12 @@
               <Node name="Homework" expanded="True" />
             </Node>
             <Node name="Lesson5" expanded="True">
-              <Node name="Homework" expanded="True" />
-            </Node>
-            <Node name="Lesson6" expanded="True">
               <Node name="Homework" expanded="True">
                 <Node name="Task1.cs" selected="True" />
               </Node>
+            </Node>
+            <Node name="Lesson6" expanded="True">
+              <Node name="Homework" expanded="True" />
             </Node>
           </Node>
         </State>
