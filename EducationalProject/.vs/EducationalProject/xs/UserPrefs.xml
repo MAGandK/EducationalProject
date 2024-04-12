@@ -10,11 +10,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EducationalProject" expanded="True">
-            <Node name="Lesson6" expanded="True" />
-            <Node name="Lesson7" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="EducationalProject" expanded="True" selected="True">
+            <Node name="Lesson7" expanded="True" />
           </Node>
         </State>
       </Pad>
