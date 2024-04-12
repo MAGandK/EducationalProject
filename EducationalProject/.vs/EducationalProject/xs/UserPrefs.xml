@@ -1,6 +1,7 @@
-﻿<Properties StartupConfiguration="{224A8ECD-C6B1-482F-9FD9-B7FED986E273}|Default">
+﻿<Properties StartupConfiguration="{7DF29956-9457-4D4C-8DB0-613FDCD6648C}|Default">
   <MonoDevelop.Ide.ItemProperties.Lesson3part2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
@@ -10,7 +11,8 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
-            <Node name="Lesson6" expanded="True">
+            <Node name="Lesson6" expanded="True" />
+            <Node name="Lesson7" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
