@@ -9,22 +9,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EducationalProject" expanded="True">
-            <Node name="Lesson3part4" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
-            <Node name="Lesson4" expanded="True">
-              <Node name="Homework" expanded="True" />
-            </Node>
-            <Node name="Lesson5" expanded="True">
-              <Node name="Homework" expanded="True">
-                <Node name="Task1.cs" selected="True" />
-              </Node>
-            </Node>
-            <Node name="Lesson6" expanded="True">
-              <Node name="Homework" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="EducationalProject" expanded="True" />
         </State>
       </Pad>
     </Pads>
