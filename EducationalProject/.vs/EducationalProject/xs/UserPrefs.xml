@@ -6,12 +6,21 @@
   <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Lesson6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson8/Practice.cs">
+    <Files>
+      <File FileName="Lesson8/Program.cs" Line="1" Column="1" />
+      <File FileName="Lesson8/Practice.cs" Line="10" Column="6" />
+      <File FileName="Lesson5/Practice.cs" Line="1" Column="1" />
+      <File FileName="Lesson5/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EducationalProject" expanded="True" selected="True">
-            <Node name="Lesson7" expanded="True" />
+          <Node name="EducationalProject" expanded="True">
+            <Node name="Lesson5" expanded="True" />
+            <Node name="Lesson8" expanded="True">
+              <Node name="Practice.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -22,6 +31,7 @@
     <Watch file="../../../Lesson6/Homework/Task1.cs" line="12" column="49" endLine="12" endColumn="56" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.ItemProperties.Lesson5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson8 FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.AverageValue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
