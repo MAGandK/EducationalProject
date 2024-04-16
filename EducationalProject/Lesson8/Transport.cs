@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Lesson8
 {
-    public class Transport
+    abstract class Transport
     {
         public string Name { get; set; }
         public string KindOfTransport { get; set; }

@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{A55C713C-77AC-40BA-A2F3-0B908808A955}|Default">
+﻿<Properties StartupConfiguration="{2530DF92-8280-4ADA-AD45-8958CC7EE13C}|Default">
   <MonoDevelop.Ide.ItemProperties.Lesson3part2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson7 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -12,14 +12,16 @@
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
             <Node name="Lesson5" expanded="True" />
-            <Node name="Lesson8" expanded="True">
-              <Node name="Boat.cs" selected="True" />
+            <Node name="Lesson8" expanded="True" />
+            <Node name="Lesson9" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson9 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EducationalProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../Lesson6/Homework/Task1.cs" line="12" column="49" endLine="12" endColumn="56" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
