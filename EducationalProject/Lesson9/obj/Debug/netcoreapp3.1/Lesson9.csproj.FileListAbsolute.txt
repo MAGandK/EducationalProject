@@ -1,0 +1,13 @@
+/Users/admin/EducationalProject/EducationalProject/Lesson9/bin/Debug/netcoreapp3.1/Lesson9.deps.json
+/Users/admin/EducationalProject/EducationalProject/Lesson9/bin/Debug/netcoreapp3.1/Lesson9.runtimeconfig.json
+/Users/admin/EducationalProject/EducationalProject/Lesson9/bin/Debug/netcoreapp3.1/Lesson9.runtimeconfig.dev.json
+/Users/admin/EducationalProject/EducationalProject/Lesson9/bin/Debug/netcoreapp3.1/Lesson9.dll
+/Users/admin/EducationalProject/EducationalProject/Lesson9/bin/Debug/netcoreapp3.1/Lesson9.pdb
+/Users/admin/EducationalProject/EducationalProject/Lesson9/obj/Debug/netcoreapp3.1/Lesson9.csproj.AssemblyReference.cache
+/Users/admin/EducationalProject/EducationalProject/Lesson9/obj/Debug/netcoreapp3.1/Lesson9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/EducationalProject/EducationalProject/Lesson9/obj/Debug/netcoreapp3.1/Lesson9.AssemblyInfoInputs.cache
+/Users/admin/EducationalProject/EducationalProject/Lesson9/obj/Debug/netcoreapp3.1/Lesson9.AssemblyInfo.cs
+/Users/admin/EducationalProject/EducationalProject/Lesson9/obj/Debug/netcoreapp3.1/Lesson9.csproj.CoreCompileInputs.cache
+/Users/admin/EducationalProject/EducationalProject/Lesson9/obj/Debug/netcoreapp3.1/Lesson9.dll
+/Users/admin/EducationalProject/EducationalProject/Lesson9/obj/Debug/netcoreapp3.1/Lesson9.pdb
+/Users/admin/EducationalProject/EducationalProject/Lesson9/obj/Debug/netcoreapp3.1/Lesson9.genruntimeconfig.cache
