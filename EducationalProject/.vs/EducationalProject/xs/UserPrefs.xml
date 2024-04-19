@@ -12,10 +12,10 @@
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
             <Node name="Lesson5" expanded="True" />
-            <Node name="Lesson8" expanded="True" />
-            <Node name="Lesson9" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Lesson8" expanded="True">
+              <Node name="Car.cs" selected="True" />
             </Node>
+            <Node name="Lesson9" expanded="True" />
           </Node>
         </State>
       </Pad>
