@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Lesson8
 {
-    public class Boat : Transport
+     public class Boat : Transport
     {
         public Boat(string name, string kindOfTransport) : base(name, kindOfTransport)
         {
