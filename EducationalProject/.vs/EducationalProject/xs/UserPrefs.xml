@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{2530DF92-8280-4ADA-AD45-8958CC7EE13C}|Default">
+﻿<Properties StartupConfiguration="{0952F39D-323B-4B95-B428-63E9F3101044}|Default">
   <MonoDevelop.Ide.ItemProperties.Lesson3part2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson7 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -6,19 +6,15 @@
   <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Lesson6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson11/Program.cs">
-    <Files>
-      <File FileName="Lesson10/Program.cs" Line="1" Column="1" />
-      <File FileName="Lesson11/Program.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
-            <Node name="Lesson10" expanded="True" />
-            <Node name="Lesson11" expanded="True">
+            <Node name="Lesson10" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="Lesson11" expanded="True" />
             <Node name="Lesson4" expanded="True" />
           </Node>
         </State>
@@ -26,7 +22,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Lesson9 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson10 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Lesson10 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EducationalProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../Lesson6/Homework/Task1.cs" line="12" column="49" endLine="12" endColumn="56" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
