@@ -9,8 +9,8 @@ namespace Lesson10
 
         public override void DisplayPerson(Employee person)
         {
-            Console.WriteLine($"Inform about person:\nID:{person.Id},Name:{person.Name}, " +
-                $"Age:{person.Age},Position:{person.Position},Salary:{person.Salary}");
+            Console.WriteLine($"Inform about person:\nID:{person.Id}, Name:{person.Name}," +
+                $"Age:{person.Age}, Position:{person.Position}, Salary:{person.Salary}");
         }
 
         public override void DisplayAll()

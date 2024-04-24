@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{0952F39D-323B-4B95-B428-63E9F3101044}|Default">
+﻿<Properties StartupConfiguration="{AE4A75DA-66A7-486B-8D12-DA8B9A517C75}|Default">
   <MonoDevelop.Ide.ItemProperties.Lesson3part2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson7 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -6,15 +6,24 @@
   <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Lesson6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson11/Program.cs">
+    <Files>
+      <File FileName="Lesson11/PersonManagement/Employee.cs" Line="23" Column="2" />
+      <File FileName="Lesson11/PersonManagement/IPersonManagement.cs" Line="1" Column="1" />
+      <File FileName="Lesson11/PersonManagement/Person.cs" Line="22" Column="2" />
+      <File FileName="Lesson11/PersonManagement/PersonManager.cs" Line="55" Column="68" />
+      <File FileName="Lesson11/Program.cs" Line="52" Column="1" />
+      <File FileName="Lesson11/PersonManagement/Student.cs" Line="22" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
-            <Node name="Lesson10" expanded="True">
+            <Node name="Lesson10" expanded="True" />
+            <Node name="Lesson11" expanded="True">
+              <Node name="PersonManagement" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Lesson11" expanded="True" />
             <Node name="Lesson4" expanded="True" />
           </Node>
         </State>
@@ -28,7 +37,7 @@
     <Watch file="../../../Lesson6/Homework/Task1.cs" line="12" column="49" endLine="12" endColumn="56" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.ItemProperties.Lesson5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson11 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Lesson11 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson8 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.AverageValue PreferredExecutionTarget="MonoDevelop.Default" />
