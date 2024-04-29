@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/EducationalProject/EducationalProject/EducationalProject/EducationalProject.csproj",
-      "projectName": "EducationalProject",
-      "projectPath": "/Users/admin/EducationalProject/EducationalProject/EducationalProject/EducationalProject.csproj",
+      "projectUniqueName": "/Users/admin/EducationalProject/EducationalProject/EducationalProject/Lesson1.csproj",
+      "projectName": "Lesson1",
+      "projectPath": "/Users/admin/EducationalProject/EducationalProject/EducationalProject/Lesson1.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
       "outputPath": "/Users/admin/EducationalProject/EducationalProject/EducationalProject/obj/",
       "projectStyle": "PackageReference",

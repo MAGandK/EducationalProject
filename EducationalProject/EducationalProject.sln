@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.25
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalProject", "EducationalProject\EducationalProject.csproj", "{6B20DD8F-B180-4BFD-8A2E-4B53E7C47EBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1", "EducationalProject\Lesson1.csproj", "{6B20DD8F-B180-4BFD-8A2E-4B53E7C47EBD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2", "Lesson2\Lesson2.csproj", "{23870A8E-E844-4270-B6C7-0C9CD009DC0D}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidtermTest", "MidtermTest\MidtermTest.csproj", "{F07C3FFF-2641-4E15-8B1E-4051C22449AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3", "Lesson3\Lesson3.csproj", "{CEF489E5-2A7B-4C9E-9BF8-8880910A1F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13", "Lesson13\Lesson13.csproj", "{45FF58AE-AAA3-44AF-AEB8-11E280A8036C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{CEF489E5-2A7B-4C9E-9BF8-8880910A1F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEF489E5-2A7B-4C9E-9BF8-8880910A1F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEF489E5-2A7B-4C9E-9BF8-8880910A1F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FF58AE-AAA3-44AF-AEB8-11E280A8036C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FF58AE-AAA3-44AF-AEB8-11E280A8036C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FF58AE-AAA3-44AF-AEB8-11E280A8036C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FF58AE-AAA3-44AF-AEB8-11E280A8036C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
