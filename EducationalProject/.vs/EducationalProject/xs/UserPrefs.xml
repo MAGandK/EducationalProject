@@ -1,19 +1,39 @@
-﻿<Properties StartupConfiguration="{2530DF92-8280-4ADA-AD45-8958CC7EE13C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lesson3part2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson7 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{F07C3FFF-2641-4E15-8B1E-4051C22449AB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Lesson2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson3part4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson3part1 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Lesson6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MidtermTest/Program.cs">
+    <Files>
+      <File FileName="Lesson4/Homework/Task2.cs" Line="4" Column="25" />
+      <File FileName="Lesson4/Program.cs" Line="33" Column="2" />
+      <File FileName="Lesson4/Homework/Task4.cs" Line="5" Column="29" />
+      <File FileName="Lesson4/Homework/Task5.cs" Line="4" Column="32" />
+      <File FileName="Lesson4/Practice.cs" Line="27" Column="2" />
+      <File FileName="Lesson5/Homework/Task1.cs" Line="4" Column="33" />
+      <File FileName="Lesson5/Practice.cs" Line="20" Column="2" />
+      <File FileName="Lesson5/Program.cs" Line="35" Column="2" />
+      <File FileName="Lesson6/Homework/Task1.cs" Line="4" Column="36" />
+      <File FileName="Lesson6/Homework/Task2.cs" Line="5" Column="43" />
+      <File FileName="Lesson6/Program.cs" Line="16" Column="2" />
+      <File FileName="Lesson7/Lecture7.cs" Line="66" Column="2" />
+      <File FileName="Lesson7/Program.cs" Line="9" Column="12" />
+      <File FileName="Lesson8/Program.cs" Line="32" Column="2" />
+      <File FileName="Lesson8/Transport.cs" Line="1" Column="1" />
+      <File FileName="MidtermTest/Program.cs" Line="21" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
-            <Node name="Lesson5" expanded="True" />
-            <Node name="Lesson8" expanded="True" />
-            <Node name="Lesson9" expanded="True">
+            <Node name="Lesson6">
+              <Node name="Homework" expanded="True" />
+            </Node>
+            <Node name="Lesson8">
+              <Node name="Lesson8" expanded="True" />
+            </Node>
+            <Node name="MidtermTest">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,18 +41,19 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Lesson9 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.EducationalProject PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../Lesson6/Homework/Task1.cs" line="12" column="49" endLine="12" endColumn="56" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Lesson7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MidtermTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.AverageValue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Lesson3part3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Lesson6/Homework/Task1.cs" line="12" column="49" endLine="12" endColumn="56" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.AverageValue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EducationalProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson9 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

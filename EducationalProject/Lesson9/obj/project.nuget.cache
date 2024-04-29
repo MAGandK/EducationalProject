@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IjvsYQsEApDAREYdbHS+2+s9nqQHlithtrBJPFiPIzV/5pBWWs1eG+XV8u5JqMPSzh4S9Vq+VVyZPbP6OFo7FQ==",
+  "dgSpecHash": "LPS14bMMzq9caGVRKAZabeSvq0aSjwPfPr9/LoeZIJcgxcIhrfl/A3zRBlnIIoltMcHnotti9XqqdufyfRgfdg==",
   "success": true,
   "projectFilePath": "/Users/admin/EducationalProject/EducationalProject/Lesson9/Lesson9.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
