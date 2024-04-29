@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4SdTAU/JVr+JCUdoSiS0M9FJ5ZjuHtO8AFhiMetQH3FmJPDkncEaWhykJPi07IxEq+IXS+GwIrAMaKmu8G+roA==",
+  "success": true,
+  "projectFilePath": "/Users/admin/EducationalProject/EducationalProject/Lesson3part3/Lesson3part3.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
