@@ -1,0 +1,13 @@
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/bin/Debug/netcoreapp3.1/Lesson3part4.deps.json
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/bin/Debug/netcoreapp3.1/Lesson3part4.runtimeconfig.json
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/bin/Debug/netcoreapp3.1/Lesson3part4.runtimeconfig.dev.json
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/bin/Debug/netcoreapp3.1/Lesson3part4.dll
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/bin/Debug/netcoreapp3.1/Lesson3part4.pdb
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/obj/Debug/netcoreapp3.1/Lesson3part4.csproj.AssemblyReference.cache
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/obj/Debug/netcoreapp3.1/Lesson3part4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/obj/Debug/netcoreapp3.1/Lesson3part4.AssemblyInfoInputs.cache
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/obj/Debug/netcoreapp3.1/Lesson3part4.AssemblyInfo.cs
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/obj/Debug/netcoreapp3.1/Lesson3part4.csproj.CoreCompileInputs.cache
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/obj/Debug/netcoreapp3.1/Lesson3part4.dll
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/obj/Debug/netcoreapp3.1/Lesson3part4.pdb
+/Users/admin/EducationalProject/EducationalProject/Lesson3part4/obj/Debug/netcoreapp3.1/Lesson3part4.genruntimeconfig.cache

@@ -6,19 +6,38 @@
   <MonoDevelop.Ide.ItemProperties.Lesson6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MidtermTest/Program.cs">
     <Files>
-      <File FileName="Lesson4/Program.cs" />
-      <File FileName="Lesson4/Practice.cs" />
-      <File FileName="Lesson5/Practice.cs" />
-      <File FileName="Lesson5/Program.cs" />
-      <File FileName="Lesson6/Program.cs" />
-      <File FileName="Lesson7/Lecture7.cs" />
-      <File FileName="Lesson7/Program.cs" />
-      <File FileName="Lesson8/Program.cs" />
+      <File FileName="Lesson4/Homework/Task2.cs" Line="4" Column="25" />
+      <File FileName="Lesson4/Program.cs" Line="33" Column="2" />
+      <File FileName="Lesson4/Homework/Task4.cs" Line="5" Column="29" />
+      <File FileName="Lesson4/Homework/Task5.cs" Line="4" Column="32" />
+      <File FileName="Lesson4/Practice.cs" Line="27" Column="2" />
+      <File FileName="Lesson5/Homework/Task1.cs" Line="4" Column="33" />
+      <File FileName="Lesson5/Practice.cs" Line="20" Column="2" />
+      <File FileName="Lesson5/Program.cs" Line="35" Column="2" />
+      <File FileName="Lesson6/Homework/Task1.cs" Line="4" Column="36" />
+      <File FileName="Lesson6/Homework/Task2.cs" Line="5" Column="43" />
+      <File FileName="Lesson6/Program.cs" Line="16" Column="2" />
+      <File FileName="Lesson7/Lecture7.cs" Line="66" Column="2" />
+      <File FileName="Lesson7/Program.cs" Line="9" Column="12" />
+      <File FileName="Lesson8/Program.cs" Line="32" Column="2" />
+      <File FileName="Lesson8/Transport.cs" Line="1" Column="1" />
       <File FileName="MidtermTest/Program.cs" Line="21" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="EducationalProject" expanded="True">
+            <Node name="Lesson6">
+              <Node name="Homework" expanded="True" />
+            </Node>
+            <Node name="Lesson8">
+              <Node name="Lesson8" expanded="True" />
+            </Node>
+            <Node name="MidtermTest">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -35,5 +54,6 @@
   <MonoDevelop.Ide.ItemProperties.AverageValue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EducationalProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson9 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
