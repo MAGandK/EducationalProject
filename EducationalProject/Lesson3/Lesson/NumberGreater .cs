@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Lesson3part1
+namespace Lesson3
 {
-    class Program
+    public static class NumberGreater
     {
-        static void Main(string[] args)
+        public static void NumbersGreater()
         {
             Console.WriteLine("Enter the number");
 

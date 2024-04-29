@@ -11,3 +11,4 @@
 /Users/admin/EducationalProject/EducationalProject/Lesson5/obj/Debug/netcoreapp3.1/Lesson5.dll
 /Users/admin/EducationalProject/EducationalProject/Lesson5/obj/Debug/netcoreapp3.1/Lesson5.pdb
 /Users/admin/EducationalProject/EducationalProject/Lesson5/obj/Debug/netcoreapp3.1/Lesson5.genruntimeconfig.cache
+/Users/admin/EducationalProject/EducationalProject/Lesson5/bin/Debug/netcoreapp3.1/Lesson5

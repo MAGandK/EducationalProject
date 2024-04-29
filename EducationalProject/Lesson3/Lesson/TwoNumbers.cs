@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Lesson3part4
+namespace Lesson3
 {
-    class Program
+    public static class TwoNumbers
     {
-        static void Main(string[] args)
+        public static void TwoNumbersEnter()
         {
             Console.WriteLine("Введите первое число");
 

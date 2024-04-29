@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Lesson3part2
+namespace Lesson3
 {
-    class Program
+    public static class EvenNumber
     {
-        static void Main(string[] args)
+        public static void EvenNumbers()
         {
             Console.WriteLine("Enter the number");
 

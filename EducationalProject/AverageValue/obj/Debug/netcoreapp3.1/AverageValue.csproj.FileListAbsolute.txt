@@ -11,3 +11,4 @@
 /Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.dll
 /Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.pdb
 /Users/admin/EducationalProject/EducationalProject/AverageValue/obj/Debug/netcoreapp3.1/AverageValue.genruntimeconfig.cache
+/Users/admin/EducationalProject/EducationalProject/AverageValue/bin/Debug/netcoreapp3.1/AverageValue

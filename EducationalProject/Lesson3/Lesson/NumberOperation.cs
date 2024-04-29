@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Lesson3part3
+namespace Lesson3
 {
-    class Program
+    public static class NumberOperation
     {
-        static void Main(string[] args)
+        public static void NumbersOperation()
         {
             Console.WriteLine("Введите номер операции: \n 1. Деление 3 на 3 " +
                 "\n 2. Число 5 больше 3 \n 3. Небо голубое");
@@ -33,7 +33,7 @@ namespace Lesson3part3
             Verchion(); //вторая попытка
         }
 
-        static void Verchion()
+        public static void Verchion()
         {
             Console.WriteLine("Выберите операциию");
             Console.WriteLine("1. Деление\n2. Определить четное ли число\n" +

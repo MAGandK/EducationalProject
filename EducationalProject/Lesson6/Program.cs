@@ -5,12 +5,12 @@ namespace Lesson6.Homework
     {
         static void Main(string[] args)
         {
-            //SortedArray.SortedArrayNum();
+            SortedArray.SortedArrayNum();
 
-            //SortedArray.SecondWaySortedArray();
-            //Console.WriteLine(new string('*',15));
-            
-            //UsingStringBuilder.CreatingStrings();
+            SortedArray.SecondWaySortedArray();
+            Console.WriteLine(new string('*', 15));
+
+            UsingStringBuilder.CreatingStrings();
         }
     }
 }

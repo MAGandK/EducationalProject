@@ -33,4 +33,3 @@ namespace Lesson5.Homework
         }
     }
 }
-

@@ -19,4 +19,3 @@ class Program
         str1.Reverse();
     }
 }
-
