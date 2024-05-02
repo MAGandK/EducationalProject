@@ -1,20 +1,26 @@
-﻿<Properties StartupConfiguration="{6B20DD8F-B180-4BFD-8A2E-4B53E7C47EBD}|Default">
+﻿<Properties StartupConfiguration="{45FF58AE-AAA3-44AF-AEB8-11E280A8036C}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson13/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson13/Phone.cs">
     <Files>
-      <File FileName="Lesson13/Program.cs" Line="1" Column="1" />
+      <File FileName="Lesson13/Phone.cs" Line="39" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="EducationalProject">
+            <Node name="Lesson13">
+              <Node name="Phone.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Lesson13 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Lesson13 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
