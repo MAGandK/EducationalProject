@@ -1,19 +1,27 @@
-﻿<Properties StartupConfiguration="{45FF58AE-AAA3-44AF-AEB8-11E280A8036C}|Default">
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="{F07C3FFF-2641-4E15-8B1E-4051C22449AB}|Default">
+  <MonoDevelop.Ide.ItemProperties.MidtermTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson13/Phone.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MidtermTest/Task7/CarFord.cs">
     <Files>
-      <File FileName="Lesson13/Phone.cs" Line="39" Column="2" />
+      <File FileName="MidtermTest/Task7/CarBace.cs" Line="12" Column="25" />
+      <File FileName="MidtermTest/Task7/CarFord.cs" Line="1" Column="1" />
+      <File FileName="MidtermTest/Program.cs" Line="1" Column="1" />
+      <File FileName="MidtermTest/Task7/CarAudi.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject">
-            <Node name="Lesson13">
-              <Node name="Phone.cs" selected="True" />
+            <Node name="Lesson8" expanded="True">
+              <Node name="Lesson8" expanded="True" />
+            </Node>
+            <Node name="Lesson9" expanded="True" />
+            <Node name="MidtermTest">
+              <Node name="Task7" expanded="True">
+                <Node name="CarFord.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -21,6 +29,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Lesson13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
