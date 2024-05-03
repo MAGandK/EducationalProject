@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sGZdCn1eFIcgrSfcDTPprumZ8ZDeJz7vxCvrwfcLmWSUhzstCH4/NVV1fnbdZLbZo3tsVy1qW4kY96QYEPa1aQ==",
+  "dgSpecHash": "9aq9UdDLk/zrMyEuWdhJJqQ9c8JFl2Wzym5K8R6gpWzJrXf+/cQKmV6uurMtICkT9fmFWaAIr9aoefmzTyrAjg==",
   "success": true,
   "projectFilePath": "/Users/admin/EducationalProject/EducationalProject/AverageValue/AverageValue.csproj",
-  "expectedPackageFiles": [
-    "/Users/admin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
