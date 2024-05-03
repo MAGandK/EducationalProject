@@ -1,27 +1,19 @@
-﻿<Properties StartupConfiguration="{F07C3FFF-2641-4E15-8B1E-4051C22449AB}|Default">
+﻿<Properties StartupConfiguration="{2B48738D-EAFD-4BA6-BAEF-F554D3AB0E6B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson14 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MidtermTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Lesson14/Practice/MyClass.cs" line="15" column="33" endLine="15" endColumn="40" offsetX="-1" offsetY="-1" expression="message" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MidtermTest/Task7/CarFord.cs">
-    <Files>
-      <File FileName="MidtermTest/Task7/CarBace.cs" Line="12" Column="25" />
-      <File FileName="MidtermTest/Task7/CarFord.cs" Line="1" Column="1" />
-      <File FileName="MidtermTest/Program.cs" Line="1" Column="1" />
-      <File FileName="MidtermTest/Task7/CarAudi.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject">
-            <Node name="Lesson8" expanded="True">
-              <Node name="Lesson8" expanded="True" />
-            </Node>
-            <Node name="Lesson9" expanded="True" />
+            <Node name="Lesson9" selected="True" />
             <Node name="MidtermTest">
-              <Node name="Task7" expanded="True">
-                <Node name="CarFord.cs" selected="True" />
-              </Node>
+              <Node name="Task7" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -30,7 +22,9 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Lesson13 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/EducationalProject/EducationalProject/Lesson14/Practice/Classroom.cs" relfile="Lesson14/Practice/Classroom.cs" line="56" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
