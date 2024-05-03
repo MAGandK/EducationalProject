@@ -11,10 +11,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject">
-            <Node name="Lesson9" selected="True" />
-            <Node name="MidtermTest">
-              <Node name="Task7" expanded="True" />
-            </Node>
+            <Node name="MidtermTest" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -22,9 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Lesson13 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/admin/EducationalProject/EducationalProject/Lesson14/Practice/Classroom.cs" relfile="Lesson14/Practice/Classroom.cs" line="56" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
