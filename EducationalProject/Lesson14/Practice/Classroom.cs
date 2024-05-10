@@ -59,6 +59,7 @@ namespace Lesson14.Practice
             {
                 Console.WriteLine($"Student {name} not found");
             }
+			 
         }
 	}
 }

@@ -1,25 +1,39 @@
-﻿<Properties StartupConfiguration="{2B48738D-EAFD-4BA6-BAEF-F554D3AB0E6B}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lesson14 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.MidtermTest PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{176516C1-6621-4BB8-8C5C-7FA7512D34DA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../Lesson14/Practice/MyClass.cs" line="15" column="33" endLine="15" endColumn="40" offsetX="-1" offsetY="-1" expression="message" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson15 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MidtermTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson16/HomeWork/Game.cs">
+    <Files>
+      <File FileName="Lesson16/HomeWork/Character.cs" Line="1" Column="1" />
+      <File FileName="Lesson16/HomeWork/Game.cs" Line="52" Column="54" />
+      <File FileName="Lesson16/HomeWork/EnumCharacter.cs" Line="1" Column="1" />
+      <File FileName="Lesson16/Practice/Book.cs" />
+      <File FileName="Lesson16/Practice/Library.cs" Line="19" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EducationalProject">
-            <Node name="MidtermTest" selected="True" />
+          <Node name="EducationalProject" expanded="True">
+            <Node name="Lesson16" expanded="True">
+              <Node name="HomeWork" expanded="True">
+                <Node name="Game.cs" selected="True" />
+              </Node>
+              <Node name="Practice" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Lesson13 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson16 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson14 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
