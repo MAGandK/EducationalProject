@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="Practice\" />
+    <None Remove="Homework\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Practice\" />
+    <Folder Include="Homework\" />
   </ItemGroup>
 </Project>

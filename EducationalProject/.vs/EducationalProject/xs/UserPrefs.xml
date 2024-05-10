@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{176516C1-6621-4BB8-8C5C-7FA7512D34DA}|Default">
+﻿<Properties StartupConfiguration="{3C2135E3-BEDB-4DFE-A84D-6526B672F553}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -10,24 +10,12 @@
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.ItemProperties.Lesson15 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MidtermTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson16/HomeWork/Game.cs">
-    <Files>
-      <File FileName="Lesson16/HomeWork/Character.cs" Line="1" Column="1" />
-      <File FileName="Lesson16/HomeWork/Game.cs" Line="52" Column="54" />
-      <File FileName="Lesson16/HomeWork/EnumCharacter.cs" Line="1" Column="1" />
-      <File FileName="Lesson16/Practice/Book.cs" />
-      <File FileName="Lesson16/Practice/Library.cs" Line="19" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EducationalProject" expanded="True">
-            <Node name="Lesson16" expanded="True">
-              <Node name="HomeWork" expanded="True">
-                <Node name="Game.cs" selected="True" />
-              </Node>
-              <Node name="Practice" expanded="True" />
-            </Node>
+            <Node name="Lesson16" expanded="True" />
           </Node>
         </State>
       </Pad>
