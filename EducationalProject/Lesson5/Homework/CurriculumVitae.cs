@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Reflection;
+
 namespace Lesson5.Homework
 {
     public class CurriculumVitae
@@ -130,6 +132,39 @@ namespace Lesson5.Homework
             }
 
             return relevance;
+        }
+
+        public void DisplayInfo(CurriculumVitae curriculum)
+        {
+            var type = curriculum.GetType();
+
+            var methods = curriculum.GetType().GetMethods();
+
+            foreach (var method in methods)
+            {
+                Console.WriteLine($"Methods: {method.Name}");
+            }
+
+            var properties = curriculum.GetType().GetProperties();
+
+            foreach (var property in properties)
+            {
+                Console.WriteLine($"Properties: {property.Name}");
+            }
+
+            var constructors = curriculum.GetType().GetConstructors();
+
+            foreach (var constructor in constructors)
+            {
+                Console.WriteLine($"Constructors: {constructor.Name}");
+            }
+
+            var fields = type.GetFields(BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.Static);
+
+            foreach (var field in fields)
+            {
+                Console.WriteLine($"Fields: {field.Name}");
+            }
         }
     }
 }
