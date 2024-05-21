@@ -8,11 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Practice\" />
     <None Remove="HomeWork\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Practice\" />
     <Folder Include="HomeWork\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 </Project>
