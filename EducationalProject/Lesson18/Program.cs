@@ -1,5 +1,4 @@
-﻿using System;
-using Lesson18.HomeWork;
+﻿using Lesson18.HomeWork;
 
 namespace Lesson18;
 
@@ -65,7 +64,6 @@ class Program
         });
 
         gameCompanySerializer.Serialize(gameCompanies, Constants.UpdatedFileName);
-
     }
 }
 

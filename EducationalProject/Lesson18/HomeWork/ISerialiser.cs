@@ -1,5 +1,4 @@
-﻿using System;
-namespace Lesson18.HomeWork
+﻿namespace Lesson18.HomeWork
 {
 	public interface ISerialiser<T>
 	{
