@@ -1,23 +1,10 @@
-﻿using System.Text.Json;
-
+﻿using System;
 namespace Lesson18.HomeWork
 {
-	public class ISerialiser<T>
+	public interface ISerialiser<T>
 	{
-        public void Serialize(List<T> items, string fileName)
-        {
-            string jsonString = JsonSerializer.Serialize(items);
-            File.WriteAllText(fileName, jsonString);
-            Console.WriteLine("Serialized JSON:");
-            Console.WriteLine(jsonString);
-        }
+        void Serialize(List<T> items, string fileName);
 
-        public List<T> Deserialize(string fileName)
-        {
-            string jsonString = File.ReadAllText(fileName);
-            List<T> items = JsonSerializer.Deserialize<List<T>>(jsonString);
-            Console.WriteLine("\nDeserialized:");
-            return items;
-        }
+        List<T> Deserialize(string fileName);
     }
 }
