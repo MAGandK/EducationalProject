@@ -1,5 +1,15 @@
+/Users/admin/EducationalProject/EducationalProject/Lesson3/bin/Debug/net7.0/Lesson3
+/Users/admin/EducationalProject/EducationalProject/Lesson3/bin/Debug/net7.0/Lesson3.deps.json
+/Users/admin/EducationalProject/EducationalProject/Lesson3/bin/Debug/net7.0/Lesson3.runtimeconfig.json
+/Users/admin/EducationalProject/EducationalProject/Lesson3/bin/Debug/net7.0/Lesson3.dll
+/Users/admin/EducationalProject/EducationalProject/Lesson3/bin/Debug/net7.0/Lesson3.pdb
 /Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/Lesson3.csproj.AssemblyReference.cache
 /Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/Lesson3.GeneratedMSBuildEditorConfig.editorconfig
 /Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/Lesson3.AssemblyInfoInputs.cache
 /Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/Lesson3.AssemblyInfo.cs
 /Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/Lesson3.csproj.CoreCompileInputs.cache
+/Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/Lesson3.dll
+/Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/refint/Lesson3.dll
+/Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/Lesson3.pdb
+/Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/Lesson3.genruntimeconfig.cache
+/Users/admin/EducationalProject/EducationalProject/Lesson3/obj/Debug/net7.0/ref/Lesson3.dll

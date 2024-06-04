@@ -1,37 +1,84 @@
-﻿<Properties StartupConfiguration="{6A786BD5-BE92-4A6C-BD48-125BB9D395FC}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lesson20 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.MidtermTest PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{0AEC18F8-7A40-4585-AB62-160D71BBDD48}|Default">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Lesson17 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MidtermTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson21 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson18 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson16 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../Lesson14/Practice/MyClass.cs" line="15" column="33" endLine="15" endColumn="40" offsetX="-1" offsetY="-1" expression="message" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.Lesson18 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson14 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson17 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson22 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lesson5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson17/Practice+Validator/ContactService.cs">
+    <Files>
+      <File FileName="Lesson22/Program.cs" Line="31" Column="37" />
+      <File FileName="Lesson22/ArrayInt.cs" Line="1" Column="1" />
+      <File FileName="Lesson22/Events.cs" Line="1" Column="1" />
+      <File FileName="Lesson22/ICRUDOperations.cs" Line="1" Column="1" />
+      <File FileName="Lesson22/IDataStorage.cs" Line="1" Column="1" />
+      <File FileName="Lesson22/JSONDateStorage.cs" Line="1" Column="1" />
+      <File FileName="Lesson22/MemoryCRUDOperations.cs" Line="1" Column="1" />
+      <File FileName="Lesson22/Project.cs" Line="1" Column="1" />
+      <File FileName="Lesson22/RandString.cs" Line="1" Column="1" />
+      <File FileName="Lesson21/Practice/Array.cs" Line="1" Column="1" />
+      <File FileName="Lesson21/Practice/IntExtentions.cs" Line="11" Column="57" />
+      <File FileName="Lesson21/Practice/RandomList.cs" Line="22" Column="61" />
+      <File FileName="Lesson20/DataService.cs" Line="1" Column="1" />
+      <File FileName="Lesson20/Element.cs" Line="1" Column="1" />
+      <File FileName="Lesson20/Program.cs" Line="1" Column="1" />
+      <File FileName="Lesson19/Factorial.cs" Line="1" Column="1" />
+      <File FileName="Lesson19/Program.cs" Line="1" Column="1" />
+      <File FileName="Lesson17/Practice+Validator/Contact.cs" Line="1" Column="1" />
+      <File FileName="Lesson17/Practice+Validator/ContactService.cs" Line="1" Column="1" />
+      <File FileName="Lesson17/Practice+Validator/CustomForClassAttribute.cs" Line="1" Column="1" />
+      <File FileName="Lesson17/Practice+Validator/Validator.cs" Line="1" Column="1" />
+      <File FileName="Lesson17/Practice+Validator/ValidatorService.cs" Line="1" Column="1" />
+      <File FileName="Lesson21/Program.cs" Line="21" Column="10" />
+      <File FileName="Lesson18/HomeWork/Constants.cs" Line="1" Column="1" />
+      <File FileName="Lesson18/HomeWork/Game.cs" Line="1" Column="1" />
+      <File FileName="Lesson18/HomeWork/GameCompany.cs" Line="1" Column="1" />
+      <File FileName="Lesson18/HomeWork/ISerialiser.cs" Line="1" Column="1" />
+      <File FileName="Lesson18/HomeWork/Serialiser.cs" Line="1" Column="1" />
+      <File FileName="Lesson18/Program.cs" Line="17" Column="11" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EducationalProject">
-            <Node name="Lesson11" expanded="True">
-              <Node name="PersonManagement" expanded="True" />
+          <Node name="EducationalProject" expanded="True">
+            <Node name="Lesson14" expanded="True">
+              <Node name="Practice" expanded="True" />
             </Node>
-            <Node name="Lesson3" expanded="True">
-              <Node name="Lesson" expanded="True" />
+            <Node name="Lesson16" expanded="True">
+              <Node name="HomeWork" expanded="True" />
+              <Node name="Practice" expanded="True" />
             </Node>
+            <Node name="Lesson17" expanded="True">
+              <Node name="Practice+Validator" expanded="True">
+                <Node name="ContactService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Lesson18" expanded="True">
+              <Node name="HomeWork" expanded="True" />
+            </Node>
+            <Node name="Lesson21" expanded="True">
+              <Node name="Practice" expanded="True" />
+            </Node>
+            <Node name="Lesson22" expanded="True" />
+            <Node name="Lesson9" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Lesson16 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson13 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lesson20 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson19 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson15 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

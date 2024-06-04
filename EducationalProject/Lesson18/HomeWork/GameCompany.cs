@@ -6,6 +6,6 @@
 
         public int YearOfFoundation { get;  set; }
 
-        public Game Game{ get; set; } = new Game();
+        public Game Game{ get; set; } 
     }
 }
