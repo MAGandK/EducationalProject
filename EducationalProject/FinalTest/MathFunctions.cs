@@ -1,5 +1,4 @@
-﻿using System;
-namespace FinalTest
+﻿namespace FinalTest
 {
 	public class MathFunctions
 	{

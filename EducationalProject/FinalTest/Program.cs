@@ -1,18 +1,16 @@
-﻿using System.Text;
-
-namespace FinalTest;
+﻿namespace FinalTest;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Array.FillArray();
+        //Array.FillArray();
 
-        StringBuilder sb = new StringBuilder("How are you doing?!");
-        string result = StringReturn.ReplaceVowels(sb);
-        Console.WriteLine(result);
+        //StringBuilder sb = new StringBuilder("How are you doing?!");
+        //string result = StringReturn.ReplaceVowels(sb);
+        //Console.WriteLine(result);
 
-        Elements.GetElement();
+        //Elements.GetElement();
 
         try
         {

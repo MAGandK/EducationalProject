@@ -1,6 +1,8 @@
-﻿<Properties StartupConfiguration="{0AEC18F8-7A40-4585-AB62-160D71BBDD48}|Default">
+﻿<Properties StartupConfiguration="{B04440C6-41DF-4D28-8D07-305A26B48088}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.MidtermTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson21 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson18 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -8,7 +10,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../Lesson14/Practice/MyClass.cs" line="15" column="33" endLine="15" endColumn="40" offsetX="-1" offsetY="-1" expression="message" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.FinalTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FinalTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson13 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson14 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -16,11 +18,28 @@
   <MonoDevelop.Ide.ItemProperties.Lesson22 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Lesson5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson22/Program.cs">
+    <Files>
+      <File FileName="FinalTest/Array.cs" Line="3" Column="21" />
+      <File FileName="FinalTest/Program.cs" Line="1" Column="1" />
+      <File FileName="FinalTest/StringReturn.cs" Line="23" Column="1" />
+      <File FileName="MidtermTest/Program.cs" Line="19" Column="26" />
+      <File FileName="Lesson22/Program.cs" Line="1" Column="1" />
+      <File FileName="FinalTest/Elements.cs" Line="14" Column="1" />
+      <File FileName="FinalTest/MathFunctions.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EducationalProject" expanded="True" />
+          <Node name="EducationalProject">
+            <Node name="Lesson21" expanded="True">
+              <Node name="Practice" expanded="True" />
+            </Node>
+            <Node name="Lesson22" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="MidtermTest" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
