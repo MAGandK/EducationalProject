@@ -1,8 +1,8 @@
 ﻿namespace Lesson13
 {
-	public class ItemManager<T> : IDataStorage<T>
-	{
-		private List<T> _items = new ();
+    public class ItemManager<T> : IDataStorage<T>
+    {
+        private List<T> _items = new();
 
         public void Add(T item)
         {
@@ -21,4 +21,6 @@
             return _items;
         }
     }
+
+ 
 }

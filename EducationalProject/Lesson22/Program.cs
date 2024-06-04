@@ -22,13 +22,13 @@ class Program
         Console.WriteLine("Equality operator result: " + equalityOperatorResult);
 
 
-        Type typeA = a.GetType();
-        Type typeB = b.GetType();
+        //Type typeA = a.GetType();
+        //Type typeB = b.GetType();
 
-        Console.WriteLine(typeA);
-        Console.WriteLine(typeB);
+        //Console.WriteLine(typeA);
+        //Console.WriteLine(typeB);
 
-        Type type2 = typeof(string);
+        //Type type2 = typeof(string);
 
 
         //public static void Try()
