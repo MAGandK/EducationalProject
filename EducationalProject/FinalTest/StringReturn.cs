@@ -1,5 +1,4 @@
-﻿using System;
-using System.Text;
+﻿using System.Text;
 
 namespace FinalTest
 {
@@ -21,6 +20,4 @@ namespace FinalTest
         }
     }
 }
-
-
 
